@@ -1,11 +1,11 @@
 
-# Hell
+# death
 
 Tired of games and searching being blocked?
 
-Then use Hell! With over 260+ unblocked games and even a working ultraviolet proxy, bypassing has never been so much easier. It has almost everything you would want in a game site! 
+Then use death ! With over 260+ unblocked games and even a working ultraviolet proxy, bypassing has never been so much easier. It has almost everything you would want in a game site! 
 
-# Why hell?
+# Why death?
 
 - Over 260 games 
 - Easy to navigate
@@ -33,12 +33,12 @@ Did you make a link and would like to share it? Post it [here!](https://forms.gl
 
 # Credits 
 
-game sources - itch.io, scratch, 3kh0, binbashbanana, lbannana, VyperGroup and classroom 6x
+game sources - itch.io, scratch,  binbashbanana, lbannana, VyperGroup and classroom 6x
 
 proxy source - tiw (source code) titanium network, and ultraviolet. tomp.app for bare
 
 code - VS code, GitHub, and CodePen (frontend).
 
-inspiration - 3kh0 and interstellar
+inspiration -   interstellar
 
 support - all of you!
